@@ -12,4 +12,4 @@ To see how the routes are included in the app, see `imports/App/App.routes.js`
 
 Each page has its own route - see the `~Page` component at the end of `App/Character/Character.page.js` and `App/Counter/Counter.page.js`
 
-Each route/page is rendered on the server, and rehydrated on the client.
+Each route/page is rendered (with data) on the server, and rehydrated on the client.
